@@ -1,0 +1,8 @@
+# Altium related Files
+History/
+Schematic/__Previews/
+AirPurity.PrjPcbStructure
+__Previews/
+Constraints.xml
+*.LOG
+.DS_Store
